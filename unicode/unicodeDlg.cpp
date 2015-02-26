@@ -6,7 +6,6 @@
 #include "unicode.h"
 #include "unicodeDlg.h"
 #include "afxdialogex.h"
-#include <fstream>
 
 #ifdef _DEBUG
 #define new DEBUG_NEW
@@ -158,11 +157,11 @@ HCURSOR CunicodeDlg::OnQueryDragIcon()
 }
 
 /*
- ****************************************************************
- *	  istifadə olunan dəyişənlərin hamısı public-dir.			*
- *	  Dlg.h faylında hamısına baxa bilərsən. biraz çətin koda	*
- *	  oxşuyur amma biraz diqqətnən baxsan başa düşərsən :3		*
- ****************************************************************
+ ******************************************************************
+ *	  istifadə olunan dəyişənlərin hamısı public-dir.			  *
+ *	  Dlg.h faylında hamısına baxa bilərsən. biraz çətin koda	  *
+ *	  oxşuyur amma biraz diqqətnən baxsan başa düşərsən :3 :)	  *
+ ******************************************************************
  */
 void CunicodeDlg::OnBnClickedButton1()
 {
